@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rkv9442 Karthik Varma
-- 👀 I’m interested in ... Hiring
+- 👀 I’m interested in ... Talent Acquisition
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...https://www.linkedin.com/feed/
-- 📫 How to reach me ...karthik.varma@experis.com
+- 📫 How to reach me karthik.varma@experis.com
 
 <!---
 rkv9442/rkv9442 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
