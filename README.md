@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karthik Varma
+- 👋 Hi, I’m @Karthik
 - 👀 I’m interested in ... Talent Acquisition
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...https://www.linkedin.com/feed/
